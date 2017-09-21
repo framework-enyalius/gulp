@@ -1,6 +1,6 @@
 FROM alpine:3.6
 MAINTAINER Marcio Bigolin <marcio.bigolinn@gmail.com>
-LABEL Description="Uma pequena imagem para você testar o poder do Eyalius"
+LABEL Description="Imagem do GULP!"
 
 RUN apk --update add yarn
 
