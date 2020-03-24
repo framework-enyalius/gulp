@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:3.11
 MAINTAINER Marcio Bigolin <marcio.bigolinn@gmail.com>
 LABEL Description="Imagem do GULP!"
 
